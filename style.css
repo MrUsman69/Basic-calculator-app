@@ -1,0 +1,35 @@
+body{
+    background-color: aquamarine;
+ }
+
+.btn.btn.btn-dark {
+    margin:  0.625em;
+    
+}
+.FC {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.FC div {
+color: rgb(0, 124, 124);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border : solid rgb(160, 121, 15);
+    padding: 10px;
+    border-radius: 2.1875em 0em;
+}
+
+.FC div:hover {
+color: rgb(0, 0, 0);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border : solid rgb(128, 0, 0);
+    padding: 15px;
+    border-radius: 2.3125em 0em;
+}
+ .Link div a {
+    color:aliceblue;
+    text-decoration: none;
+}
+.Link{
+      text-align: center;
+}
